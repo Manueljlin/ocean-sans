@@ -20,7 +20,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>340</integer>
+        <integer>347</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -40,7 +40,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>210</integer>
+        <integer>203</integer>
       </dict>
     </array>
     <key>unitsPerEm</key>
