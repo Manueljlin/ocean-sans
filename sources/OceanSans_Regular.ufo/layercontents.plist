@@ -18,5 +18,25 @@
       <string>alt</string>
       <string>glyphs.alt</string>
     </array>
+    <array>
+      <string>curved</string>
+      <string>glyphs.curved</string>
+    </array>
+    <array>
+      <string>dotted</string>
+      <string>glyphs.dotted</string>
+    </array>
+    <array>
+      <string>o</string>
+      <string>glyphs.o</string>
+    </array>
+    <array>
+      <string>sharp</string>
+      <string>glyphs.sharp</string>
+    </array>
+    <array>
+      <string>contrast</string>
+      <string>glyphs.contrast</string>
+    </array>
   </array>
 </plist>
